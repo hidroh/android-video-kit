@@ -40,6 +40,13 @@
 
     <Button
         android:layout_marginTop="20dp"
+        android:id="@+id/btn_trim_video_async"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trim Video Async" />
+
+    <Button
+        android:layout_marginTop="20dp"
         android:id="@+id/btn_play"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
